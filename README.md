@@ -1,16 +1,50 @@
-## Hi there 👋
 
-<!--
-**cristianx2803/cristianx2803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 ¡Hola! Soy Cristian
 
-Here are some ideas to get you started:
+💻 **Desarrollador en formación | DAW**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente estoy estudiando **Desarrollo de Aplicaciones Web (DAW)** y trabajando para convertirme en **Full Stack Developer**.
+
+Me gusta aprender construyendo proyectos y seguir mejorando mis conocimientos en desarrollo web y programación.
+
+### 🚀 Tecnologías
+
+**Backend**
+
+* ☕ Java
+* 🗄️ MySQL
+
+**Frontend**
+
+* 🌐 HTML
+* 🎨 CSS
+* ⚡ JavaScript
+
+**Herramientas**
+
+* 🐙 Git & GitHub
+* 💻 Visual Studio Code
+* 🔧 IntelliJ IDEA
+
+### 📚 Actualmente aprendiendo
+
+* Desarrollo web Full Stack
+* Java y programación orientada a objetos
+* Bases de datos y SQL
+* JavaScript
+* Desarrollo de APIs
+* Buenas prácticas y Git
+
+### 🎯 Mi objetivo
+
+Seguir creciendo como desarrollador, crear proyectos cada vez más completos y llegar a trabajar como **Full Stack Developer**.
+
+### 📂 En este perfil
+
+Aquí voy subiendo mis **apuntes, ejercicios y proyectos**, documentando mi aprendizaje y mi evolución como programador.
+
+---
+
+📍 España
+💻 DAW Student
+🚀 Future Full Stack Developer
